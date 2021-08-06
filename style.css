@@ -1,0 +1,22 @@
+.container {
+  margin-bottom: 100px;
+}
+.slide-bg {
+  background-color: #fceae8;
+}
+.carousel-item {
+  padding: 20px 40px;
+}
+.price {
+  color: #ff136f;
+}
+.buy-button {
+  text-decoration: none;
+  background: linear-gradient(45deg, purple, blue);
+  padding: 9px 25px;
+  border-radius: 7px;
+  color: white;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+}
